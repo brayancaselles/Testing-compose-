@@ -1,6 +1,6 @@
-# Testing Compose
+# My First app with Compose
 
-This is the Readme of the Testing Compose project.
+This is the Readme of the My First app with Compose project.
 
 ## Getting Started
 
